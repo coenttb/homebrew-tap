@@ -1,0 +1,6 @@
+# Whitelist: the tap holds only casks and its README.
+/*
+!/.gitignore
+!/README.md
+!/Casks/
+.DS_Store
