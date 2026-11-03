@@ -1,8 +1,8 @@
 cask "birdwatch" do
-  version "1.0"
-  sha256 "12e82d80ec0eaada1b918146b2b0e96607de2a0816feeaffd4be6a9cbcc506aa"
+  version "1.0.1"
+  sha256 "b23211b3af806e637881cfde27422727282776c8779cb8873c05cb25325038ea"
 
-  url "https://coenttb.com/birdwatch/Birdwatch-#{version}.zip"
+  url "https://coenttb.com/birdwatch/Birdwatch-#{version}.zip?ref=homebrew"
   name "Birdwatch"
   desc "Menu bar monitor for stuck Swift and Xcode processes"
   homepage "https://coenttb.com/birdwatch"
