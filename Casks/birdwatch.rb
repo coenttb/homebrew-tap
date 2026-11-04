@@ -1,6 +1,6 @@
 cask "birdwatch" do
-  version "1.0.2"
-  sha256 "d518073b326c4a7000dcdfbcc3b95f3cc9daee6c13cd8ab080deee03869e398e"
+  version "1.0.3"
+  sha256 "7abd3d8bd5ba43eed989828150283bf1185a440bad073f7c85cd0e085a6f1d17"
 
   url "https://coenttb.com/birdwatch/Birdwatch-#{version}.zip?ref=homebrew"
   name "Birdwatch"
